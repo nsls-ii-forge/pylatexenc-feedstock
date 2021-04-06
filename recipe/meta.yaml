@@ -1,6 +1,6 @@
 {% set name = "pylatexenc" %}
-{% set version = "2.9" %}
-{% set sha256 = "4e6b70e5f1a0bff9cd73829f78a17f5126b6e5a7cf1eadf6e4be33ff0434ba4c" %}
+{% set version = "2.10" %}
+{% set sha256 = "bcb859affea00b5acb25aec780620170ab9d385c8f7dc266b7237ce9f47a59fd" %}
 
 package:
   name: {{ name|lower }}
